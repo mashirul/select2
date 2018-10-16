@@ -1,7 +1,7 @@
 {
   "name": "select2/select2",
   "description": "Select2 is a jQuery based replacement for select boxes.",
-  "type": "component",
+  "type": "drupal-library",
   "homepage": "https://select2.org/",
   "license": "MIT",
   "require": {
